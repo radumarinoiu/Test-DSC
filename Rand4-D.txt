@@ -1,1 +1,1 @@
-ceva nou
+ceva nou append word
